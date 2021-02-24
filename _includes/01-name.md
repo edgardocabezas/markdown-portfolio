@@ -1,6 +1,6 @@
 # Edgardo Jose Cabezas
-## Ortus Solutions S.A. de C.V.
+
 ### Director Ejecutivo
-#### Director de Recursos Humanos
-##### Encomendero - Chofer - Driver
-###### y otras hiervas...
+### Ortus Solutions S.A. de C.V.
+#### edgardo@ortussolutions.com
+###### (503) 7707-7177
