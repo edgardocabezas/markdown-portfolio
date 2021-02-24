@@ -1,4 +1,4 @@
-#About Mehttps://github.com/edgardocabezas/markdown-portfolio/blob/cambiar-listas/_includes/04-lists.md
+# About Me
 A successful corporate career in multinational companies, with 30 years of experience in the different areas of
 information technology, administration and management of projects of corporate scope, specializations in the life cycle
 of services and, recently, completing the Certification of Executive Coaching. These form the knowledge base that is
